@@ -11,6 +11,28 @@ The purpose of this Bike Share analysis is to evaluate the effectiveness of the 
 #### Check Out Time for Users by Gender
 ![image](https://github.com/blueschistrocks/bikesharing/blob/128d429d92d5eae7fff91066a9f767b2b6148e08/images/Screen%20Shot%202022-05-16%20at%209.17.30%20PM.png)<br>
 
+#### Trips by Weekday Per Hour
+![image](https://github.com/blueschistrocks/bikesharing/blob/3092148142154dcee94de40b21ae12ba609cfb9b/images/Screen%20Shot%202022-05-16%20at%209.17.59%20PM.png)<br>
+
+
+#### Trips by Weekday Per Hour by Gender
+![image](https://github.com/blueschistrocks/bikesharing/blob/3092148142154dcee94de40b21ae12ba609cfb9b/images/Screen%20Shot%202022-05-16%20at%209.18.15%20PM.png)<br>
+
+
+#### Trips by Gender by Weekday 
+![image](https://github.com/blueschistrocks/bikesharing/blob/3092148142154dcee94de40b21ae12ba609cfb9b/images/Screen%20Shot%202022-05-16%20at%209.18.40%20PM.png)<br>
+
+
+#### Top Starting Locations 
+![image](https://github.com/blueschistrocks/bikesharing/blob/3092148142154dcee94de40b21ae12ba609cfb9b/images/Screen%20Shot%202022-05-16%20at%209.19.03%20PM.png)<br>
+
+
+#### Top End Locations 
+![image](https://github.com/blueschistrocks/bikesharing/blob/3092148142154dcee94de40b21ae12ba609cfb9b/images/Screen%20Shot%202022-05-16%20at%209.19.28%20PM.png)<br>
+
+
+
+
 
 
 
