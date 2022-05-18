@@ -44,9 +44,9 @@ Using the converted Dataframe and Tableau I created seven visualizations of the 
 
 ### Deliverable 3
 
-Using the seven seven visualizations created in Deliverable 2 I created a Tableau story.  The link to the story here.
+Using the seven seven visualizations created in Deliverable 2 I created a Tableau story.  The link to the story below:
 
-
+[Link to Tableau File](https://public.tableau.com/views/Bike_share_challenge1/NCYBikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
 ### Summary
