@@ -11,7 +11,7 @@ Using Python and Pandas, I converted the "tripduration" column in the 201908-cit
 
 ### Deliverable 2
 
-Using the converted Dataframe and Tableau I created seven visualization of the New York City Bike Share data.
+Using the converted Dataframe and Tableau I created seven visualizations of the New York City Bike Share data.
 
 
 #### Check Out Time for Users
@@ -42,6 +42,9 @@ Using the converted Dataframe and Tableau I created seven visualization of the N
 
 
 
+### Deliverable 3
+
+Using the seven seven visualizations created in Deliverable 2 I created a Tableau story.  The link to the story here.
 
 
 
