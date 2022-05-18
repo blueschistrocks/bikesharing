@@ -3,6 +3,10 @@
 ### Purpose
 The purpose of this Bike Share analysis is to evaluate the effectiveness of the New York City Citi Bike Share program to determine how a similar program Des Moines, Iowa might work.
 
+### Deliverable 1
+Using Python and Pandas, I converted the "tripduration" column in the 201908-citibike-tripdata.csv from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After the conversion I exported the resulting Dataframe to a CSV file 201908-citibike-tripdata(mod).csv.!
+
+
 
 #### Check Out Time for Users
 ![image](https://github.com/blueschistrocks/bikesharing/blob/128d429d92d5eae7fff91066a9f767b2b6148e08/images/Screen%20Shot%202022-05-16%20at%209.17.11%20PM.png)<br>
