@@ -1,7 +1,7 @@
-# Bikesharing
+# Bike Sharing Analysis
 
 ### Purpose
-The purpose of this Bike Share analysis is to evaluate the effectiveness of the New York City Citi Bike Share program to determine how a similar program Des Moines, Iowa might work.
+The purpose of this Bike Share analysis is to evaluate the effectiveness of the New York City Citi Bike Share program to determine how a similar program in Des Moines, Iowa might work.
 
 ### Deliverable 1
 Using Python and Pandas, I converted the "tripduration" column in the 201908-citibike-tripdata.csv from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After the conversion I exported the resulting Dataframe to a CSV file 201908-citibike-tripdata(mod).csv. Below is a clip of the code used to covert the column and the resulting converted column.
@@ -11,7 +11,7 @@ Using Python and Pandas, I converted the "tripduration" column in the 201908-cit
 
 ### Deliverable 2
 
-Using the converted Dataframe and Tableau I created seven visualizations of the New York City Bike Share data.
+Using the converted Dataframe and Tableau I created seven visualizations of the New York City Citi Bike Share data.
 
 
 #### Check Out Time for Users
@@ -50,9 +50,10 @@ Using the seven seven visualizations created in Deliverable 2 I created a Tablea
 
 
 ### Summary
-The data appears to indicate that male users are more likely to use the service. Time usage data indicates that most users are work commuters.   Subscribers to the service use bikes more often than customers. Customers appear to use the service more often on the weekends.  The service appears to be most often used in Manhattan, therefore demographics and urban density may be a factor in the increase use.  
+The data appears to indicate that male users are more likely to use the service. Time usage data indicates that most users are work commuters.   Subscribers to the service use bikes more often than customers. Customers appear to use the service more often on the weekends.  The service appears to be most often used in Manhattan, therefore demographics and urban density may be a factor in the increase use. Since Des Moines is a significantly smaller city and does not have the urban density as New York a bike share program may need to be initiated with a small number of bikes and only in the immediate downtown area of Des Moines.
 
-Additional research into the demographics and urban density differences between the areas that utilized the service the most and used the service the least.  Additional visualizations that would be helpful include:
+
+Additional research into the demographics and urban density differences between the areas that utilized the service the most and used the service the least would be helpful.  Additional visualizations that would be helpful include:
 - Heat map to compare user types by weekday per hour, and
 - Combine weather data to create a visualization to show any seasonal changes in service use.
 
